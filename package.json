@@ -1,0 +1,7 @@
+{
+  "name": "vivekdemo",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "./gradlew :webApp:wasmJsBrowserDistribution"
+  }
+}
